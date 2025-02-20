@@ -1,3 +1,12 @@
+@font-face {
+    font-family: 'Doto';
+    src: url('../fonts/Doto-Regular.woff2') format('woff2'),
+         url('../fonts/Doto-Regular.woff') format('woff'),
+         url('../fonts/Doto-Regular.ttf') format('truetype'); /* Fallback */
+    font-weight: normal;
+    font-style: normal;
+}
+
 .doto-font {
     font-family: "Doto", serif;
     font-optical-sizing: auto;
@@ -7,6 +16,7 @@
 }
 
 body {
+    font-family: 'Doto', sans-serif;
     background: url('../images/background.jpg') no-repeat center center fixed;
     background-size: cover;
     display: flex;
