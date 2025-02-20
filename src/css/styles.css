@@ -1,8 +1,8 @@
 @font-face {
     font-family: 'Doto';
-    src: url('/PixelFlip/src/fonts/Doto-Medium.woff2') format('woff2'),
-         url('/PixelFlip/src/fonts/Doto-Medium.woff') format('woff'),
-         url('/PixelFlip/src/fonts/Doto-Medium.ttf') format('truetype'); /* Fallback */
+    src: url('../fonts/Doto-Medium.woff2') format('woff2'),
+         url('../fonts/Doto-Medium.woff') format('woff'),
+         url('../fonts/Doto-Medium.ttf') format('truetype'); /* Fallback */
     font-weight: normal;
     font-style: normal;
 }
