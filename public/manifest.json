@@ -1,0 +1,22 @@
+{
+    "name": "Pixel Flip - Retro Pixelated Flip Clock!",
+    "short_name": "PixelFlip",
+    "description": "A retro pixelated flip clock",
+    "start_url": "https://pages.github.ncsu.edu/aabhade/PixelFlip/",
+    "display": "standalone",
+    "background_color": "#1a1a1a",
+    "theme_color": "#41f01a",
+    "icons": [
+      {
+        "src": "./assets/Pixel-Flip-192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "./assets/Pixel-Flip-512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
+  }
+  

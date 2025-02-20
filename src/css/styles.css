@@ -1,0 +1,80 @@
+.doto-font {
+    font-family: "Doto", serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    font-variation-settings: "ROND" 0;
+}
+
+body {
+    background: url('../images/background.jpg') no-repeat center center fixed;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+}
+
+.clock-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 80px;
+}
+
+.date-display {
+    background-color: black;
+    color: #41f01a;
+    font-size: 60px;
+    text-align: center;
+    padding: 20px;
+    margin-top: 60px;
+    border-radius: 25px;
+}
+
+.flip-clock {
+    display: flex;
+    color: #41f01a;
+    gap: 20px;
+    align-items: center;
+
+    .flip-digit {
+        background-color: black;
+        font-size: 200px;
+        text-align: center;
+        padding: 30px;
+        border-radius: 25px;
+    }
+
+    .separator {
+        font-size: 150px;
+        margin-top: 50px;
+    }
+
+    .am-pm {
+        font-size: 80px;
+        margin-left: 70px;
+    }
+}
+
+.left-side {
+    display: flex;
+    gap: 20px;
+}
+
+.right-side {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    margin-left: 20px;
+}
+
+.flip-seconds {
+    display: flex;
+    gap: 20px;
+
+    .flip-second {
+        background-color: black;
+        font-size: 100px;
+        padding: 30px;
+        border-radius: 25px;
+    }
+}
