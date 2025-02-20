@@ -1,13 +1,14 @@
 const CACHE_NAME = "pixelflip-cache-v1";
 
 const urlsToCache = [
-    "/aabhade/PixelFlip/index.html",
-    "/aabhade/PixelFlip/src/css/styles.css",
-    "/aabhade/PixelFlip/src/css/effects.css",
-    "/aabhade/PixelFlip/src/js/script.js",
-    "/aabhade/PixelFlip/src/images/background.jpg",
-    "/aabhade/PixelFlip/public/assets/Pixel-Flip-192.png",
-    "/aabhade/PixelFlip/public/assets/Pixel-Flip-512.png",
+    "/PixelFlip/index.html",
+    "/PixelFlip/src/css/styles.css",
+    "/PixelFlip/src/css/effects.css",
+    "/PixelFlip/src/js/script.js",
+    "/PixelFlip/src/images/background.jpg",
+    "/PixelFlip/public/assets/Pixel-Flip-192.png",
+    "/PixelFlip/public/assets/Pixel-Flip-512.png",
+    "/PixelFlip/public/assets/favicon.ico",
 ];
 
 // Install the service worker
