@@ -14,7 +14,7 @@ PixelFlip is a pixel-perfect, retro-inspired flip clock that brings back the nos
 
 ![pixelflipgif](https://github.com/user-attachments/assets/09509f9a-a6f5-44e6-a893-c8ae5f924c86)
 
-📱 How to Install as a PWA
+## 📱 How to Install as a PWA
 1. Open the site in a web browser like Google Chrome.
 2. Click the "Install" button in the address bar.
 3. PixelFlip is now available as a standalone app! 🎉
