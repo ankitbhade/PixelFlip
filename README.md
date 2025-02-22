@@ -7,7 +7,7 @@ PixelFlip is a pixel-perfect, retro-inspired flip clock that brings back the nos
 
 ## **📜 Features**  
 ✔️ **Retro Flip Clock** – Animated pixel-style digits  
-✔️ **Game Boy Theme** – Green monochrome display  
+✔️ **Classic Theme** – Neon green pixelated display  
 ✔️ **PWA (Progressive Web App)** – Installable & works offline  
 ✔️ **Smooth Animations** – GSAP-powered transitions  
 ✔️ **Lightweight & Fast** – Optimized assets and caching
