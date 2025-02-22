@@ -1,10 +1,8 @@
-@import url('https://fonts.googleapis.com/css2?family=Doto:wght@100..900&display=swap');
-
 @font-face {
     font-family: 'Doto';
     src: url('../fonts/Doto-Medium.woff2') format('woff2'),
          url('../fonts/Doto-Medium.woff') format('woff'),
-         url('../fonts/Doto-Medium.ttf') format('truetype'); /* Fallback */
+         url('../fonts/Doto-Medium.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
