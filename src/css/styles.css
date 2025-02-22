@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Doto:wght@100..900&display=swap');
+
 @font-face {
     font-family: 'Doto';
     src: url('../fonts/Doto-Medium.woff2') format('woff2'),
@@ -13,16 +15,6 @@ body {
     background-size: cover;
     display: flex;
     justify-content: center;
-    -webkit-animation-delay: 0.1s;
-    -webkit-animation-name: fontfix;
-    -webkit-animation-duration: 0.1s;
-    -webkit-animation-iteration-count: 1;
-    -webkit-animation-timing-function: linear;
-}
-
-@-webkit-keyframes fontfix {
-    from { opacity: 1; }
-    to   { opacity: 1; }
 }
 
 .clock-container {
